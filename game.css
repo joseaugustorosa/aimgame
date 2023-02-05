@@ -1,0 +1,35 @@
+.topo{
+    text-align: center;
+   
+}
+body{
+    background-color: #20b2aa;
+}
+
+.game{
+    
+    margin:30px auto;
+    background-color: white;
+    width:80% ;
+    height: 600px;
+
+}
+.game img{
+    position: relative;
+    width: 30px;
+    top: 0px;
+    left: 0px;
+    display: none;
+   
+}
+.topo button{
+    padding: 10px 20px;
+    
+}
+#mostrador{
+    display: inline; 
+    padding-left:10px ;
+    font-size: 17px;
+    color: antiquewhite;
+    
+}

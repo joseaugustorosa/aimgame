@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: #20b2aa;
+}
+.titulo{
+    margin-top: 130px;
+    margin-bottom: 20px;
+}
+.titulo h1{
+    font-size: 50px;
+}
+
+.titulo h3{
+    
+    font-size: 30px;
+}
+
+button{
+    padding: 20px 40px 20px 40px;
+}
+
+.regras{
+    
+    margin: 30px auto;
+    font-size: 17px;
+    width: 300px;
+}
+
+
+img{
+
+    width: 150px;
+}
